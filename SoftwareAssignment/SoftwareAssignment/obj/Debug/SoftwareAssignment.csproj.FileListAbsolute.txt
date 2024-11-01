@@ -1,0 +1,11 @@
+C:\Users\tommy\source\repos\SoftwareAssignment\SoftwareAssignment\bin\Debug\SoftwareAssignment.exe.config
+C:\Users\tommy\source\repos\SoftwareAssignment\SoftwareAssignment\bin\Debug\SoftwareAssignment.exe
+C:\Users\tommy\source\repos\SoftwareAssignment\SoftwareAssignment\bin\Debug\SoftwareAssignment.pdb
+C:\Users\tommy\source\repos\SoftwareAssignment\SoftwareAssignment\obj\Debug\SoftwareAssignment.csproj.AssemblyReference.cache
+C:\Users\tommy\source\repos\SoftwareAssignment\SoftwareAssignment\obj\Debug\SoftwareAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\tommy\source\repos\SoftwareAssignment\SoftwareAssignment\obj\Debug\SoftwareAssignment.Properties.Resources.resources
+C:\Users\tommy\source\repos\SoftwareAssignment\SoftwareAssignment\obj\Debug\SoftwareAssignment.csproj.GenerateResource.cache
+C:\Users\tommy\source\repos\SoftwareAssignment\SoftwareAssignment\obj\Debug\SoftwareAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tommy\source\repos\SoftwareAssignment\SoftwareAssignment\obj\Debug\SoftwareAssignment.exe
+C:\Users\tommy\source\repos\SoftwareAssignment\SoftwareAssignment\obj\Debug\SoftwareAssignment.pdb
+C:\Users\tommy\source\repos\SoftwareAssignment\SoftwareAssignment\obj\Debug\SoftwareAssignment.Login.resources
